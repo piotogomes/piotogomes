@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->,
 Estudante em SI e formado em física pela USP
+www.linkedin.com/in/rafael-pioto/
